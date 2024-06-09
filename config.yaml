@@ -3,7 +3,6 @@ subject: 'cat:cs.CL'
 
 # 検索キーワード
 keywords:
-        natural language generation: 3
         advertisement: 3
         advertising: 3
         ad text: 4
@@ -16,20 +15,21 @@ keywords:
         buying funnel: 3
         marketing funnel: 3
         search intent: 3
-        intent classification: 3
-        intent: 1
         product title: 2
-        query expansion: 1
         clickbait: 1
-        survey: 1
-        data-to-text: 1
-        table-to-text: 1
-        instruction tuning: 3
-        RLHF: 3
         preference: 3
-        human preference: 3
         attractiveness: 2
 
+# natural language generation: 3
+# instruction tuning: 3
+# RLHF: 3
+# human preference: 3
+# data-to-text: 1
+# table-to-text: 1
+# survey: 1
+# query expansion: 1
+# intent classification: 3
+# intent: 1
 # mixture of experts: 2
 # multiple choice learning: 2        
 # multi choice learning: 2       
